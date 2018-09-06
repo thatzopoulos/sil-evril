@@ -50,7 +50,7 @@ this file for advice on your specific system.
 
 3. Run Sil-V:
 
-   Go back to the Sil folder and start Sil-V with "sil".
+   Go back to the Sil folder and start Sil-V with "sil-v".
 
 ### Windows with Cygwin   (tested with Sil-V)
 

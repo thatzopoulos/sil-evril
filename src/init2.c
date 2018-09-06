@@ -1586,7 +1586,7 @@ extern void display_introduction(void)
 	Term_putstr(14, 3, -1, TERM_L_BLUE, "  The world was young, the mountains green,            ");
 	Term_putstr(14, 4, -1, TERM_L_BLUE, "     No stain yet on the moon was seen...              ");
 	
-	Term_putstr(14,  7, -1, TERM_WHITE, "Welcome to Sil, a game of adventure set                ");
+	Term_putstr(14,  7, -1, TERM_WHITE, "Welcome to Sil-V, a game of adventure set                ");
 	Term_putstr(14,  8, -1, TERM_WHITE, "  in the First Age of Middle-earth,                    ");
 	Term_putstr(14,  9, -1, TERM_WHITE, "    when the world still rang with elven song          ");
 	Term_putstr(14, 10, -1, TERM_WHITE, "      and gleamed with dwarven mail.                   ");
