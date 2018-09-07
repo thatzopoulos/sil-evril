@@ -1,0 +1,118 @@
+  [Sil 1.3.0 Character Dump]
+
+ Name   Noroth        Age      323       Str   2
+ Sex    Female        Height  5'10       Dex   5
+ Race   Noldor        Weight   143       Con   3
+ House  Feanor                           Gra   4
+
+ Game Turn    3,574   Melee  (+10,2d7)   Melee       10 =  7  +5  -3  +1
+ Exp Pool     1,913   Bows    (+3,2d7)   Archery      3 =  0  +5  -3  +1
+ Total Exp    8,113   Armor  [+9,4-18]   Evasion      9 =  7  +5  -3
+ Burden       146.2                      Stealth     -3 =  0  +5  -8
+ Max Burden   144.0   Health     -4:34   Perception   4 =  0  +4
+ Depth         250'   Voice      41:41   Will         4 =  0  +4
+ Min Depth     200'                      Smithing    10 =  3  +4  +2  +1
+ Light Radius     1                      Song         4 =  0  +4
+
+ You are one of two children of a bard from the house of Feanor. You
+ have light grey eyes, wavy black hair, and a fair complexion.
+
+
+
+
+
+
+  [Last Messages]
+
+> Your torch glows more brightly.
+> You have 2 Wooden Torches (2000 turns) (d).
+> You hear a shout for help.
+> You hear a warning shout.
+> The Orc warrior notices you.
+> You hear a shout for help.
+> There is a wall in the way! <6x>
+> The Orc warrior misses you.
+> The Orc warrior charges you.
+> The Orc warrior misses you. <3x>
+> The Orc warrior charges you!
+> The Orc warrior charges you. <2x>
+> There is a wall in the way!
+> The Orc warrior hits you.
+> You die.
+
+
+  [Screenshot]
+
+   ...   
+  ##'##  
+  ....#  
+  ..o@.  
+  ..o.#  
+  ....#  
+  #####  
+
+
+  [Equipment]
+
+a) a Longsword (+0,2d5) [+1] 2.5 lb
+b) a Longbow (+0,2d5) 2.0 lb
+   It can shoot arrows 20 squares (with your current strength).
+c) (nothing)
+d) an Onyx Ring of Accuracy (+1)
+e) (nothing)
+f) a Wooden Torch (2049 turns)
+g) a Hauberk (-2) [-4,2d5]
+h) a Cloak [+1]
+i) a Kite Shield (-2) [+0,1d6]
+j) (nothing)
+k) a Set of Gloves of the Forge <+2>
+   It improves your smithing by 2.  
+l) a Pair of Greaves [-1,1d2]
+m) 68 Arrows
+   They can be shot 20 squares (with your current strength and bow).
+n) 25 Arrows (Poisoned)
+   They are branded with venom.  They can be shot 20 squares
+   (with your current strength and bow).
+
+
+  [Inventory]
+
+a) 3 Fragments of Lembas
+b) 2 Murky Brown Potions of Orcish Liquor
+c) 3 Pale Green Potions of Slow Poison
+d) 2 Wooden Torches (2000 turns)
+e) 4 Daggers (+0,1d5) 2.0 lb
+   It can be thrown effectively (11 squares).  
+f) 2 Spears of Doriath (-1,1d9) 6.0 lb
+   They slay wolves and spiders.  It can be thrown effectively
+   (5 squares).  It does extra damage when wielded with both
+   hands.  It counts as a type of polearm.  
+g) 8 Spears (-1,1d9) 24.0 lb
+   It can be thrown effectively (5 squares).  It does extra
+   damage when wielded with both hands.  It counts as a type of
+   polearm.  
+h) a Great Spear (-1,1d13) [+1] 6.0 lb
+   It requires both hands to wield it properly.  It counts as a
+   type of polearm.  
+
+
+  [Notes]
+
+Noroth of the Noldor
+Entered Angband on 6 Sep 2018
+
+   Turn     Depth   Note
+
+  1,405    100 ft   (Armoursmith)
+  1,645    100 ft   Made a Hauberk (-2) [-4,2d5]  60.5 lb
+  1,666    100 ft   Made a Pair of Greaves [-1,1d2]  8.0 lb
+  1,784    100 ft   Made a Kite Shield (-2) [+0,1d6]  14.0 lb
+
+  3,574    250 ft   Slain by an Orc warrior.
+  3,574    250 ft   Died on 06 September 2018.
+
+
+
+
+  ['Score' 005096426]
+
