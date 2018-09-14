@@ -1,4 +1,4 @@
-# Sil-V
+# Sil-eVril
 Sil-V is a computer role-playing game with a strong emphasis on discovery and
 tactical combat. It has a simple but rich combat system which allows for a
 great variety of choice.
