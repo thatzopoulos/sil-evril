@@ -453,7 +453,7 @@
  */
 #define	MEL_POWER					 0
 #define	MEL_FINESSE					 1
-#define	MEL_THROWING				 2
+#define	MEL_KNOCK_BACK				 2
 #define	MEL_POLEARMS				 3
 #define	MEL_CHARGE					 4
 #define	MEL_FOLLOW_THROUGH			 5

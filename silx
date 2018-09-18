@@ -37,13 +37,14 @@ SIL_X11_AT_Y_4=519;     export SIL_X11_AT_Y_4
 SIL_X11_COLS_4=133;     export SIL_X11_COLS_4
 SIL_X11_ROWS_4=21;      export SIL_X11_ROWS_4
 
-# Could add more windows here...
 # Character window
 SIL_X11_FONT_5=10x20;    export SIL_X11_FONT_5
 SIL_X11_AT_X_5=0;       export SIL_X11_AT_X_5
 SIL_X11_AT_Y_5=519;     export SIL_X11_AT_Y_5
 SIL_X11_COLS_5=133;     export SIL_X11_COLS_5
 SIL_X11_ROWS_5=21;      export SIL_X11_ROWS_5
+
+# Could add more windows here...
 
 # Gamma correction
 SIL_X11_GAMMA=142;      export SIL_X11_GAMMA
