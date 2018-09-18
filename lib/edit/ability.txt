@@ -588,7 +588,6 @@ T:40:0:99  # Amulet
 
 N:143:Song of Freedom
 I:7:3:4
-P:7/0
 D:Discovers and overcomes nearby doors, traps, and rubble.
 T:33:0:99  # Crown
 T:40:0:99  # Amulet
